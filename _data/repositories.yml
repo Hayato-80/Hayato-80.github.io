@@ -1,6 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+- Hayato-80
+  # - torvalds
+  # - alshedivat
 
 repo_description_lines_max: 2
 
