@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     Email <a href="hayato.kojima80*gmail.com"><i class="fas fa-envelope""></i></a><br>
 
@@ -26,6 +26,8 @@ latest_posts:
 ---
 
 Hi. I’m a double degree master's student of [JEMARO(Japan Europe Masters on Advanced Robotics)](https://jemaro.ec-nantes.fr/) at [Centrale Nantes](https://www.ec-nantes.fr/english-version?l=1) and [Keio University](https://www.keio.ac.jp/en/).
+
+My research interests include where bio-inspired robots, legged-robots, co-activation mechanisms and biomechanics. I am currently working on the master thesis project named "Postural balance of a bird leg using simulation and a robot model" in which I am studying how the shape of articulation of a bird-leg robot affects its response to perturbations.
 
 I received B.Sc. Mechatronics at [Faculty of Mechatronics](https://www.mchtr.pw.edu.pl/www_mchtr_eng) in [Warsaw University of Technology](https://eng.pw.edu.pl/) in February 2024.
 
