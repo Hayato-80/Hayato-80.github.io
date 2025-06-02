@@ -3,13 +3,15 @@ github_users:
   # - torvalds
   # - alshedivat
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Hayato-80/ros_segmentation
+  - Hayato-80/SOFAR_PROJECT
+  - Hayato-80/mobro_sim
+  # - jekyll/jekyll
+  # - twbs/bootstrap
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
