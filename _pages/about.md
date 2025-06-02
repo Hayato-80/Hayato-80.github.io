@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    Email <a href="hayato.kojima80*gmail.com"><i class="fas fa-envelope""></i></a><br>
+    Email <a href="hayato.kojima80@gmail.com"><i class="fas fa-envelope""></i></a><br>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
