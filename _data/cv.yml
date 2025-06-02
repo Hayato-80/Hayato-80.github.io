@@ -2,96 +2,112 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hayato Kojima
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21th April 2001
     - name: Languages
-      value: English, German
+      value: English, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Engineering
+      institution: Keio University, Tokyo, Japan
+      year: 2024-2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Second year of JEMARO - Japan Europe Master on Advanced Robotics(double degree program between Keio University, Warsaw University of Technology, Genova University, and Centrale Nantes).
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Master in Control and Robotics - Advanced Robotics
+      institution: Centrale Nantes, Nantes, France
+      year: 2024-2026
+      description:
+        - First year of JEMARO - Japan Europe Master on Advanced Robotics(double degree program between Keio University, Warsaw University of Technology, Genova University, and Centrale Nantes).
+        # - Description 2.
+        - title: Activities and societies
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - A member of the ECN robot club. I was in the localization and implementation team, and participated in Eurobot 2025.
+            - NEURA robotics challenge (humanid 4ne-1 implementation challenge). I am in the simulation team using Isaac Sim and Gazebo, and the implementation team using ROS2.
+    - title: Bachelor of Science in Engineering, Mechatronics
+      institution: Warsaw University of Technology, Warsaw, Poland
+      year: 2021-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated with the bachelor thesis project called "RGBD Semantic Segmentation for Robotic Manipulation".
+        - title: Activities and societies
+          contents:
+            - A member of Humanoid Sciences Club(English team).
+            - Joined Brainhack Warsaw 2022 and made a project "Talking with Machine Learning models using chatbots" as a team.
 
-- title: Experience
+- title: Working Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Robotics Engineer(Internship)
+      institution: Tsukarm Robotics, Tokyo, Japan
+      year: June - August,<br>2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed a ROS1 and ROS2 simulation environment and ROS packages for dual-arm robots.
+        - Developed pick and place simulation demo using ROS2 and Movieit2.
+    - title: Hardware Engineer(Internship)
+      institution: GRIPS Inc., Tokyo, Japan
+      year: April - May,<br>2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Designed the end effector for the robot competition in IEEE ICRA2024(International Conference on Robotics and Automation) to achieve serving bowl meal.
+    - title: Assistant Robotics Engineer(Internship)
+      institution: 	TechShare Inc., Tokyo, Japan
+      year: July - August,<br>2023
       description:
+        - Designed a casing for the computer of the robot using Fusion360 and tested with CAE.
+        - Tested 6 DOF manipulator using ROS.
+        - Migrated the robot software from ROS1 to ROS2.
+        - Made the demo for the RFID sensor with mobile robot.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+
+
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
+    #   description:
+
+    # - title: Associate Professor of Theoretical Physics
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1909 - 1911
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Consortium scholarships by JEMARO(Japan-Europe Master on Advanced Robotics)
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Rector's scholarship by Faculty of Mechatronics, Warsaw University of Technology
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Robotics.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Animal inspired robot.
+        - Humanoid robot.
+        - Bipedal robot
+    # - title: Topic 2.
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
