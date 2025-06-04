@@ -13,7 +13,7 @@
   contents:
     - title: Master of Science in Engineering
       institution: Keio University, Tokyo, Japan
-      year: 2024-2026
+      year: 2024 - current
       description:
         - Second year of JEMARO - Japan Europe Master on Advanced Robotics(double degree program between Keio University, Warsaw University of Technology, Genova University, and Centrale Nantes).
         # - Description 2.
@@ -23,7 +23,7 @@
         #     - Sub-description 2.
     - title: Master in Control and Robotics - Advanced Robotics
       institution: Centrale Nantes, Nantes, France
-      year: 2024-2026
+      year: 2024 - current
       description:
         - First year of JEMARO - Japan Europe Master on Advanced Robotics(double degree program between Keio University, Warsaw University of Technology, Genova University, and Centrale Nantes).
         # - Description 2.
@@ -97,10 +97,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Robotics.
+    - title: Robotics
       items:
-        - Animal inspired robot.
-        - Humanoid robot.
+        - Animal inspired robot
+        - Humanoid robot
         - Bipedal robot
     # - title: Topic 2.
     #   items:
