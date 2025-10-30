@@ -3,10 +3,11 @@ github_users:
   # - torvalds
   # - alshedivat
 
-repo_description_lines_max: 3
+repo_description_lines_max: 4
 
 github_repos:
   - Hayato-80/ros_segmentation
+  - Hayato-80/jemaro_days_2025
   - Hayato-80/SOFAR_PROJECT
   - Hayato-80/mobro_sim
   # - jekyll/jekyll

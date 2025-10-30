@@ -16,6 +16,8 @@
       year: 2024 - current
       description:
         - Second year of JEMARO - Japan Europe Master on Advanced Robotics(double degree program between Keio University, Warsaw University of Technology, Genova University, and Centrale Nantes).
+        - Seiichiro Katsura Laboratory.
+        - Researching on animal-inspired robots, especially bird-inspired bipedal robots.
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -26,16 +28,18 @@
       year: 2024 - current
       description:
         - First year of JEMARO - Japan Europe Master on Advanced Robotics(double degree program between Keio University, Warsaw University of Technology, Genova University, and Centrale Nantes).
+        - ReV(Robotics and Living) researching team in LS2N laboratory.
+        - Researching on animal-inspired robots, especially bird-inspired bipedal robots.
         # - Description 2.
         - title: Activities and societies
           contents:
             - A member of the ECN robot club. I was in the localization and implementation team, and participated in Eurobot 2025.
-            - NEURA robotics challenge (humanid 4ne-1 implementation challenge). I am in the simulation team using Isaac Sim and Gazebo, and the implementation team using ROS2.
+            - NEURA robotics challenge (humanid 4ne-1 implementation challenge). I am in the simulation team using Isaac Sim connected with ROS2. Our team achieved making the demonstration of pouring water from the bottle to the cup using AI decision-making and task-planning.
     - title: Bachelor of Science in Engineering, Mechatronics
       institution: Warsaw University of Technology, Warsaw, Poland
       year: 2021-2024
       description:
-        - Graduated with the bachelor thesis project called "RGBD Semantic Segmentation for Robotic Manipulation".
+        - Graduated with the bachelor thesis project called "RGBD Semantic Segmentation for Robotic Manipulation" using ROS, TensorFlow, OpenCV, and Keras.
         - title: Activities and societies
           contents:
             - A member of Humanoid Sciences Club(English team).
@@ -102,6 +106,9 @@
         - Animal inspired robot
         - Humanoid robot
         - Bipedal robot
+        - Mobile robot
+        - Service robot
+        - Entertainment robot
     # - title: Topic 2.
     #   items:
     #     - Description 1.
